@@ -1,0 +1,21 @@
+Attrition,Department,JobRole,OverTime,YearsAtCompany,DataLabel
+Yes,Sales,Sales Executive,Yes,1,SYNTHETIC
+No,Sales,Sales Executive,No,5,SYNTHETIC
+Yes,Sales,Sales Representative,Yes,2,SYNTHETIC
+No,Sales,Sales Executive,Yes,7,SYNTHETIC
+Yes,Sales,Sales Representative,No,3,SYNTHETIC
+No,Sales,Sales Executive,No,11,SYNTHETIC
+Yes,Research & Development,Research Scientist,Yes,1,SYNTHETIC
+No,Research & Development,Research Scientist,No,4,SYNTHETIC
+No,Research & Development,Laboratory Technician,Yes,6,SYNTHETIC
+Yes,Research & Development,Laboratory Technician,Yes,2,SYNTHETIC
+No,Research & Development,Manufacturing Director,No,12,SYNTHETIC
+No,Research & Development,Research Scientist,No,8,SYNTHETIC
+Yes,Research & Development,Laboratory Technician,Yes,0,SYNTHETIC
+No,Research & Development,Research Scientist,Yes,15,SYNTHETIC
+Yes,Human Resources,Human Resources,Yes,1,SYNTHETIC
+No,Human Resources,Human Resources,No,9,SYNTHETIC
+No,Human Resources,HR Executive,No,12,SYNTHETIC
+Yes,Human Resources,Human Resources,Yes,4,SYNTHETIC
+No,Human Resources,HR Executive,Yes,6,SYNTHETIC
+No,Human Resources,HR Executive,No,3,SYNTHETIC
