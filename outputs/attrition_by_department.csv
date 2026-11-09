@@ -1,0 +1,4 @@
+Department,total_employees,attrition_count,attrition_rate
+Human Resources,6,2,0.3333333333333333
+Research & Development,8,3,0.375
+Sales,6,3,0.5

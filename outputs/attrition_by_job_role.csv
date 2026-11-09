@@ -1,0 +1,8 @@
+JobRole,total_employees,attrition_count,attrition_rate
+HR Executive,3,0,0.0
+Human Resources,3,2,0.6666666666666666
+Laboratory Technician,3,2,0.6666666666666666
+Manufacturing Director,1,0,0.0
+Research Scientist,4,1,0.25
+Sales Executive,4,1,0.25
+Sales Representative,2,2,1.0

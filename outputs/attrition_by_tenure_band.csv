@@ -1,0 +1,5 @@
+TenureBand,total_employees,attrition_count,attrition_rate
+0-2,6,6,1.0
+3-5,5,2,0.4
+6-10,5,0,0.0
+11+,4,0,0.0
